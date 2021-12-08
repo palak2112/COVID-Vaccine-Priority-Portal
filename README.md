@@ -1,2 +1,3 @@
 # COVID-Vaccine-Priority-Portal
-e. The project can be used to know the priority order and urgency for a person to get vaccinated on the basis of - Age, Health Status, Current Covid Cases in the region where the person’s resident is located and his profession.
+After a long research, wait and learning, we as a nation have been able to develop the vaccine for our citizens, to immunize them against the Covid. After the development of vaccine, the next problem we are facing these days is to ensure proper distribution of vaccine among the general public, considering India has such a huge population and with such a huge population it is very challenging to decide and prioritize, who should be vaccinated first ? 
+This project deals with this challenge. The project can be used to know the priority order and urgency for a person to get vaccinated on the basis of - Age, Health Status, Current Covid Cases in the region where the person’s resident is located and his profession.
